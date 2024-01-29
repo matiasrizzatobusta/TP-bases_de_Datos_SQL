@@ -5,3 +5,5 @@ Rizzato Busta, Matias - 1677822 - matias.rizzato@gmail.com
 Banfi, Franco - 1723601 
 Maceratesi, Nicolas -1725063
 Vallejos Lugo, Leandro - 1723900
+
+La base se encuentra dentro del .rar
